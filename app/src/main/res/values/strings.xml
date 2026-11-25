@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">药忆</string>
+    <string name="widget_description">今日服药进度和下一次服药，点一下直接去打卡</string>
+</resources>

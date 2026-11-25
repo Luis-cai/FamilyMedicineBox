@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "drugs": [
+    {
+      "ingredient": "布洛芬",
+      "aliases": ["布洛芬", "芬必得", "美林", "布洛芬缓释胶囊", "布洛芬混悬液", "Ibuprofen"],
+      "category": "解热镇痛",
+      "note": "解热镇痛抗炎药，建议餐后服用；不要与其他解热镇痛药叠加使用。",
+      "classGroup": "解热镇痛"
+    },
+    {
+      "ingredient": "对乙酰氨基酚",
+      "aliases": ["对乙酰氨基酚", "泰诺林", "泰诺", "扑热息痛", "百服宁", "必理通", "999感冒灵", "感冒灵", "感康", "快克", "白加黑", "新康泰克", "Paracetamol"],
+      "category": "解热镇痛",
+      "note": "常见复方感冒药中多含此成分，叠加服用容易导致成分过量，损伤肝脏。",
+      "classGroup": "解热镇痛"
+    },
+    {
+      "ingredient": "阿司匹林",
+      "aliases": ["阿司匹林", "拜阿司匹灵", "阿司匹林肠溶片", "Aspirin"],
+      "category": "解热镇痛",
+      "note": "长期服用需遵医嘱，儿童病毒感染期间禁用。",
+      "classGroup": "解热镇痛"
+    },
+    {
+      "ingredient": "双氯芬酸",
+      "aliases": ["双氯芬酸", "扶他林", "双氯芬酸钠"],
+      "category": "解热镇痛",
+      "note": "外用凝胶较为常用，避免大面积长期使用。",
+      "classGroup": "解热镇痛"
+    },
+    {
+      "ingredient": "氯雷他定",
+      "aliases": ["氯雷他定", "开瑞坦", "Loratadine"],
+      "category": "抗过敏",
+      "note": "第二代抗组胺药，嗜睡副作用较轻，每日一次。",
+      "classGroup": "抗过敏"
+    },
+    {
+      "ingredient": "西替利嗪",
+      "aliases": ["西替利嗪", "仙特明", "Cetirizine"],
+      "category": "抗过敏",
+      "note": "与氯雷他定属同类药物，不建议同时服用。",
+      "classGroup": "抗过敏"
+    },
+    {
+      "ingredient": "氯苯那敏",
+      "aliases": ["氯苯那敏", "扑尔敏", "Chlorpheniramine"],
+      "category": "抗过敏",
+      "note": "第一代抗组胺药，服后易嗜睡，服药期间避免驾驶。",
+      "classGroup": "抗过敏"
+    },
+    {
+      "ingredient": "孟鲁司特",
+      "aliases": ["孟鲁司特", "顺尔宁", "Montelukast"],
+      "category": "呼吸系统",
+      "note": "哮喘/过敏性鼻炎长期控制用药，需按疗程服用。",
+      "classGroup": "呼吸系统"
+    },
+    {
+      "ingredient": "氨溴索",
+      "aliases": ["氨溴索", "沐舒坦", "Ambroxol"],
+      "category": "呼吸系统",
+      "note": "化痰药，服用期间多饮水有助于排痰。",
+      "classGroup": "呼吸系统"
+    },
+    {
+      "ingredient": "右美沙芬",
+      "aliases": ["右美沙芬", "惠菲宁", "Dextromethorphan"],
+      "category": "呼吸系统",
+      "note": "中枢性镇咳药，痰多者慎用。",
+      "classGroup": "呼吸系统"
+    },
+    {
+      "ingredient": "阿莫西林",
+      "aliases": ["阿莫西林", "阿莫仙", "Amoxicillin"],
+      "category": "抗感染",
+      "note": "处方抗生素，必须按医嘱足量足疗程使用，不可自行加量。",
+      "classGroup": "抗感染"
+    },
+    {
+      "ingredient": "头孢克肟",
+      "aliases": ["头孢克肟", "世福素", "头孢"],
+      "category": "抗感染",
+      "note": "处方抗生素，青霉素过敏者需提前告知医生。",
+      "classGroup": "抗感染"
+    },
+    {
+      "ingredient": "阿奇霉素",
+      "aliases": ["阿奇霉素", "希舒美", "Azithromycin"],
+      "category": "抗感染",
+      "note": "处方抗生素，按疗程服用，避免自行停药。",
+      "classGroup": "抗感染"
+    },
+    {
+      "ingredient": "蒙脱石",
+      "aliases": ["蒙脱石", "思密达", "蒙脱石散"],
+      "category": "肠胃用药",
+      "note": "止泻药，与其他口服药需间隔 1 小时以上。",
+      "classGroup": "肠胃用药"
+    },
+    {
+      "ingredient": "双歧杆菌",
+      "aliases": ["双歧杆菌", "培菲康", "妈咪爱", "益生菌", "枯草杆菌"],
+      "category": "肠胃用药",
+      "note": "活菌制剂，需冷藏保存，避免与抗生素同时服用。",
+      "classGroup": "肠胃用药"
+    },
+    {
+      "ingredient": "奥美拉唑",
+      "aliases": ["奥美拉唑", "洛赛克", "奥克", "Omeprazole"],
+      "category": "肠胃用药",
+      "note": "质子泵抑制剂，建议早餐前空腹服用。",
+      "classGroup": "肠胃用药"
+    },
+    {
+      "ingredient": "铝碳酸镁",
+      "aliases": ["铝碳酸镁", "达喜", "Hydrotalcite"],
+      "category": "肠胃用药",
+      "note": "抗酸药，建议餐后 1-2 小时嚼服。",
+      "classGroup": "肠胃用药"
+    },
+    {
+      "ingredient": "多潘立酮",
+      "aliases": ["多潘立酮", "吗丁啉", "Domperidone"],
+      "category": "肠胃用药",
+      "note": "促胃动力药，餐前 15-30 分钟服用。",
+      "classGroup": "肠胃用药"
+    },
+    {
+      "ingredient": "藿香正气",
+      "aliases": ["藿香正气", "藿香正气水", "藿香正气胶囊"],
+      "category": "中成药",
+      "note": "藿香正气水含酒精，服用后不可驾车，也不宜与头孢类药物同服。",
+      "classGroup": "中成药"
+    },
+    {
+      "ingredient": "连花清瘟",
+      "aliases": ["连花清瘟", "连花清瘟胶囊", "连花清瘟颗粒"],
+      "category": "中成药",
+      "note": "风寒感冒者不适用，服用期间忌辛辣油腻。",
+      "classGroup": "中成药"
+    },
+    {
+      "ingredient": "小柴胡",
+      "aliases": ["小柴胡", "小柴胡颗粒"],
+      "category": "中成药",
+      "note": "解表散热，适用于寒热往来、胸胁苦满。",
+      "classGroup": "中成药"
+    },
+    {
+      "ingredient": "板蓝根",
+      "aliases": ["板蓝根", "板蓝根颗粒"],
+      "category": "中成药",
+      "note": "清热解毒，脾胃虚寒者不宜长期服用。",
+      "classGroup": "中成药"
+    },
+    {
+      "ingredient": "维生素C",
+      "aliases": ["维生素C", "维C", "维生素C片", "Vitamin C"],
+      "category": "营养补充",
+      "note": "长期大剂量服用可能增加结石风险，按推荐量补充即可。",
+      "classGroup": "营养补充"
+    },
+    {
+      "ingredient": "维生素D",
+      "aliases": ["维生素D", "星鲨", "维生素D滴剂", "伊可新", "维生素D3"],
+      "category": "营养补充",
+      "note": "促进钙吸收，婴幼儿补充需按体重遵医嘱。",
+      "classGroup": "营养补充"
+    },
+    {
+      "ingredient": "碳酸钙",
+      "aliases": ["碳酸钙", "钙片", "碳酸钙D3", "钙尔奇"],
+      "category": "营养补充",
+      "note": "建议随餐服用，与铁剂间隔 2 小时。",
+      "classGroup": "营养补充"
+    },
+    {
+      "ingredient": "葡萄糖酸锌",
+      "aliases": ["葡萄糖酸锌", "锌剂", "补锌"],
+      "category": "营养补充",
+      "note": "空腹服用易刺激胃部，建议餐后服用。",
+      "classGroup": "营养补充"
+    },
+    {
+      "ingredient": "硝酸甘油",
+      "aliases": ["硝酸甘油", "硝酸甘油片", "Nitroglycerin"],
+      "category": "心血管",
+      "note": "急救用药，舌下含服；开封后 3 个月需更换。",
+      "classGroup": "心血管"
+    },
+    {
+      "ingredient": "二甲双胍",
+      "aliases": ["二甲双胍", "格华止", "Metformin"],
+      "category": "慢病用药",
+      "note": "随餐服用可减少胃肠道反应，需长期规律服用。",
+      "classGroup": "慢病用药"
+    },
+    {
+      "ingredient": "氨氯地平",
+      "aliases": ["氨氯地平", "络活喜", "Amlodipine"],
+      "category": "慢病用药",
+      "note": "降压药需每日固定时间服用，不可自行停药。",
+      "classGroup": "慢病用药"
+    },
+    {
+      "ingredient": "缬沙坦",
+      "aliases": ["缬沙坦", "代文", "Valsartan"],
+      "category": "慢病用药",
+      "note": "降压药，妊娠期禁用。",
+      "classGroup": "慢病用药"
+    },
+    {
+      "ingredient": "左甲状腺素",
+      "aliases": ["左甲状腺素", "优甲乐", "Levothyroxine"],
+      "category": "慢病用药",
+      "note": "需早餐前 30 分钟空腹服用，与钙剂间隔 4 小时。",
+      "classGroup": "慢病用药"
+    },
+    {
+      "ingredient": "沙丁胺醇",
+      "aliases": ["沙丁胺醇", "万托林", "Salbutamol"],
+      "category": "呼吸系统",
+      "note": "哮喘急救吸入剂，随身携带，定期检查剩余次数。",
+      "classGroup": "呼吸系统"
+    },
+    {
+      "ingredient": "布地奈德",
+      "aliases": ["布地奈德", "普米克", "Budesonide"],
+      "category": "呼吸系统",
+      "note": "吸入后需漱口，减少口腔真菌感染风险。",
+      "classGroup": "呼吸系统"
+    },
+    {
+      "ingredient": "玻璃酸钠",
+      "aliases": ["玻璃酸钠", "人工泪液", "玻璃酸钠滴眼液"],
+      "category": "外用",
+      "note": "开封后建议 4 周内用完，避免瓶口接触眼睛。",
+      "classGroup": "外用"
+    },
+    {
+      "ingredient": "莫匹罗星",
+      "aliases": ["莫匹罗星", "百多邦", "Mupirocin"],
+      "category": "外用",
+      "note": "外用抗生素软膏，连续使用不超过 10 天。",
+      "classGroup": "外用"
+    },
+    {
+      "ingredient": "硝酸咪康唑",
+      "aliases": ["硝酸咪康唑", "达克宁", "Miconazole"],
+      "category": "外用",
+      "note": "抗真菌外用，症状消失后仍需巩固数日。",
+      "classGroup": "外用"
+    },
+    {
+      "ingredient": "聚维酮碘",
+      "aliases": ["聚维酮碘", "碘伏", "Povidone iodine"],
+      "category": "外用",
+      "note": "伤口消毒用，不可与红药水同时使用。",
+      "classGroup": "外用"
+    },
+    {
+      "ingredient": "云南白药",
+      "aliases": ["云南白药", "云南白药气雾剂", "云南白药膏"],
+      "category": "外用",
+      "note": "跌打损伤外用药，皮肤破损处慎用。",
+      "classGroup": "外用"
+    },
+    {
+      "ingredient": "风油精",
+      "aliases": ["风油精", "清凉油"],
+      "category": "外用",
+      "note": "外用止痒，婴幼儿及眼部周围禁用。",
+      "classGroup": "外用"
+    }
+  ]
+}

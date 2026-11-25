@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_bg">#2F6F63</color>
+    <color name="window_bg">#F6F7F5</color>
+
+    <!-- 桌面小组件 -->
+    <color name="widget_bg">#FFF8F6F0</color>
+    <color name="widget_border">#FFE2DED2</color>
+    <color name="widget_bar">#FF2F6B55</color>
+    <color name="widget_track">#FFE4E1D6</color>
+    <color name="widget_title">#FF2F6B55</color>
+    <color name="widget_text">#FF1E2F29</color>
+    <color name="widget_sub">#FF6E7B73</color>
+    <color name="widget_hint">#FF8A968F</color>
+</resources>

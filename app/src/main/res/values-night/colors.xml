@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式下的启动底色，与 Compose 的 Background 保持一致，避免开屏闪一下白 -->
+    <color name="window_bg">#0F1513</color>
+
+    <!-- 桌面小组件：跟随系统深色模式 -->
+    <color name="widget_bg">#FF19211E</color>
+    <color name="widget_border">#FF2C3733</color>
+    <color name="widget_bar">#FF8FD9C4</color>
+    <color name="widget_track">#FF2C3733</color>
+    <color name="widget_title">#FF8FD9C4</color>
+    <color name="widget_text">#FFE9F2EE</color>
+    <color name="widget_sub">#FFA9B9B2</color>
+    <color name="widget_hint">#FF7D8B84</color>
+</resources>
