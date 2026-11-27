@@ -1,4 +1,4 @@
-﻿﻿﻿﻿package com.family.medbox.ui.sync
+package com.family.medbox.ui.sync
 
 import android.content.ClipData
 import android.content.ClipboardManager

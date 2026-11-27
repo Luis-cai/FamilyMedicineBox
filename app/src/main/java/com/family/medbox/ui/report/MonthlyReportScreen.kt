@@ -1,4 +1,4 @@
-﻿﻿﻿﻿package com.family.medbox.ui.report
+package com.family.medbox.ui.report
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background

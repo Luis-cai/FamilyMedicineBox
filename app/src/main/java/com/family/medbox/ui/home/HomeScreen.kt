@@ -1,4 +1,4 @@
-﻿﻿﻿﻿package com.family.medbox.ui.home
+package com.family.medbox.ui.home
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background

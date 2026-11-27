@@ -1,4 +1,4 @@
-﻿﻿﻿﻿package com.family.medbox.ui.check
+package com.family.medbox.ui.check
 
 import android.Manifest
 import android.content.pm.PackageManager

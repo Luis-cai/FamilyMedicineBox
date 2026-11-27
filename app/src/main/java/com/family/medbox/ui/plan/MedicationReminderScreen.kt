@@ -1,4 +1,4 @@
-﻿﻿﻿﻿package com.family.medbox.ui.plan
+package com.family.medbox.ui.plan
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Canvas
